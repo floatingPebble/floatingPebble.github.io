@@ -1,0 +1,25 @@
+body {background-color: #eae3ea;}
+#wrap {background-color: }
+#text {font-size: 19vw;
+	   font-family: Helvetica;
+       color: maroon;
+       margin: 0 0 2vw 0;
+       text-align: center;
+}
+#wrap2 {text-align: center;}
+#newText {font-size: 1.5em;
+          margin: 3vw 0 0 0;
+          font-family: Helvetica;
+          color: #262228;
+}
+button {font-size: 1.5em;
+        width: 4em;
+        color: #438496;
+        background-color: #eae3ea;
+        border-color: #438496;
+        border-radius: 4px;
+}
+button:hover {color: white;
+              border-color: white;
+              background-color: #438496;
+}
